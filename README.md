@@ -1,6 +1,6 @@
 ## Hi there, I`m Serhii Onopriienko 👋
 
-🎯 Front-End Developer • UX Enthusiast • JavaScript & React lover
+🎯 Front-End Developer • UX Enthusiast
 
 ## 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
