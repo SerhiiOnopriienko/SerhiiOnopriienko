@@ -17,7 +17,7 @@
 
 | Project | Description | Live | Code |
 |--------|-------------|------|------|
-| **🍿 Movies Project** | SPA to search and get basic information about movies | [Live](https://finalmoduleproject-g8t8.vercel.app/main) | [Code] (https://github.com/SerhiiOnopriienko/Portfolio/tree/main/ModuleProject/movies_projects) |
+| **🍿 Movies Project** | SPA to search and get basic information about movies | [Live](https://finalmoduleproject-g8t8.vercel.app/main) | [Code](https://github.com/SerhiiOnopriienko/Portfolio/tree/main/ModuleProject/movies_projects) |
 | **🧳 Trips App** | Simple React/TS app about booking a trip | [Live](https://trips-rust.vercel.app) | [Code]([https://github.com/yourname/audio-visualizer](https://github.com/SerhiiOnopriienko/trips)) |
 | **🏨 Hotel Admin Panel ** | React project with API | [Live](https://portfolio-livid-one-75.vercel.app/) | [Code](https://github.com/SerhiiOnopriienko/Portfolio/tree/main/the-wild-oasis) |
 | **🏨 Pizza Restaurant App ** | React project with API | [Live](https://react-pizza-amber-eight.vercel.app/) | [Code](https://github.com/SerhiiOnopriienko/react-pizza) |
