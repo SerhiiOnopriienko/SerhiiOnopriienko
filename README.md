@@ -29,4 +29,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/serhii-onopriienko-099215174/)
 - 📧 [Email](onopriienko.s@icloud.com)
-- 📬 [Telegram](@OnopriienkoSerhii)
+- 📬 [Telegram](https://t.me/OnopriienkoSerhii)
