@@ -1,6 +1,6 @@
 ## Hi there, I`m Serhii Onopriienko 👋
 
-🎯 Front-End Developer • UX Enthusiast
+🎯 Frontend Engineer
 
 ## 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
@@ -21,7 +21,6 @@
 | **🧳 Trips App** | Simple React/TS app about booking a trip | [Live](https://trips-rust.vercel.app) | [Code](https://github.com/SerhiiOnopriienko/trips) |
 | **🏨 Pizza Restaurant App ** | React project with API | [Live](https://react-pizza-amber-eight.vercel.app/) | [Code](https://github.com/SerhiiOnopriienko/react-pizza) |
 | **🏨 Tic Tac Toe Game with chat ** | React project for two people with chat | [Live](https://tic-tac-toe-one-sigma-82.vercel.app/) | [Code](https://github.com/SerhiiOnopriienko/tic-tac-toe) |
-| **🍿 Movies Project** | SPA to search and get basic information about movies | [Live](https://finalmoduleproject-g8t8.vercel.app/main) | [Code](https://github.com/SerhiiOnopriienko/Portfolio/tree/main/ModuleProject/movies_projects) |
 
 ---
 
